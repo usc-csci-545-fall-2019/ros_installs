@@ -1,4 +1,4 @@
-- git: {local-name: ada_testing uri: 'https://github.com/usc-csci-545/ada_testing.git'}
+- git: {local-name: ada_testing, uri: 'https://github.com/usc-csci-545/ada_testing.git'}
 - git: {local-name: ada_description, uri: 'https://github.com/usc-csci-545/ada_description.git'}
 - git: {local-name: ada_launch, uri: 'https://github.com/usc-csci-545/ada_launch.git'}
 - git: {local-name: aikido, uri: 'https://github.com/usc-csci-545/aikido.git'}
