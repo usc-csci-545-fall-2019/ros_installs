@@ -10,3 +10,4 @@
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/usc-csci-545/pr_ros_controllers.git'}
 - git: {local-name: pr_tsr, uri: 'https://github.com/usc-csci-545/pr_tsr.git'}
 - git: {local-name: rewd_controllers, uri: 'https://github.com/usc-csci-545/rewd_controllers.git'}
+- git: {local-name: aikidopy, uri: 'https://github.com/usc-csci-545/ros_installs.git'}
