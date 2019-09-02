@@ -48,6 +48,9 @@ Install some miscellaneous dependencies
 $ apt install ros-kinetic-controller-interface ros-kinetic-transmission-interface ros-kinetic-realtime-tools ros-kinetic-controller-manager ros-kinetic-control-toolbox ros-kinetic-octomap-ros ros-kinetic-srdfdom python-catkin-tools python-pybind11
 ```
 
+If you're setting up an installation before Lab 1, please stop here!
+---
+
 ## Setting up your workspace
 ```
 $ mkdir ~/rosws && cd ~/rosws
